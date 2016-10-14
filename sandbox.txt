@@ -1,2 +1,4 @@
 #!/bin/sh
 this is a sandbox for using git tool
+
+a new word: conmaitnate, means to make inpure
